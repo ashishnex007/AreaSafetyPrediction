@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(73, 73, 73);
+    font-family: sans-serif;
+}
+.aalu{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+.aalu input{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
